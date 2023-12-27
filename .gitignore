@@ -2,9 +2,6 @@
 dist/
 .vercel/
 
-# generated types
-.astro/
-.vscode
 # environment variables
 .env
 .env.production
