@@ -22,7 +22,7 @@
     "noFallthroughCasesInSwitch": true,
     "useUnknownInCatchVariables": true,
     "noPropertyAccessFromIndexSignature": true,
-    "baseUrl": "/workspaces/AquaPumpers-website",
+    "baseUrl": ".",
     "paths": {
       "@/*": [
         "./src/*"
